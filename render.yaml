@@ -4,6 +4,5 @@ services:
   runtime: static
   repo: https://github.com/mcohen01/mlc
   plan: starter
-  region: oregon
   staticPublishPath: .
 version: "1"
