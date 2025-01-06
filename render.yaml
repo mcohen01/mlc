@@ -3,6 +3,6 @@ services:
   name: marklouiscohen
   runtime: static
   repo: https://github.com/mcohen01/mlc
-  plan: starter
+  plan: free
   staticPublishPath: .
 version: "1"
